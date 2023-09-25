@@ -55,7 +55,7 @@ $
 ```
 ## Step 3 - Github Flavored Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items.<sup>[1]<sup>
+Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#external-references)
 - [X] Finish Step 1
 - [ ] Finish Step 2
 - [X] Finish Step 3
@@ -77,7 +77,18 @@ Github extends Markdown to have a list where you can check off items.<sup>[1]<su
 | `:dog:` | :dog:   |
 | `:owl:` | :owl:   |
 
-## References
+## Step 5 = how to create a table
+> You can use the following format to create tables!
+```md
+| Section 1 | Section 2 |
+| :-----------: | :------------: |
+| **Code** | **Emoji**   |
+| `:dog:` | :dog:   |
+| `:owl:` | :owl:   |
+```
+GFM provides really cool formating for tables[<sup>[2]</sup>](#external-references)
+
+## external References
 
 Links I used
 1. I used this for syntax [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
@@ -85,3 +96,4 @@ Links I used
 3. I used this for Python code [Python Example](https://www.programiz.com/python-programming/examples/add-number)
 4.I used this for Ruby code [Ruby Error Example](https://www.bigbinary.com/blog/ruby-2-5-prints-backstrace-and-error-message-in-reverse-order) <sup>[1]<sup>
 5. [Emoji list!](https://github.com/ikatyang/emoji-cheat-sheet#table-of-contents)
+6. [Format tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) <sup>[2]<sup>
