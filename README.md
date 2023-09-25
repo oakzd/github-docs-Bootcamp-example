@@ -88,7 +88,10 @@ Github extends Markdown to have a list where you can check off items.[<sup>[1]</
 ```
 GFM provides really cool formating for tables[<sup>[2]</sup>](#external-references)
 
-## external References
+## Another way to include pics
+![Shooting Stars!](assests/shootingstars.png)
+
+## External References
 
 Links I used
 1. I used this for syntax [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
