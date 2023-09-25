@@ -91,8 +91,11 @@ GFM provides really cool formating for tables[<sup>[2]</sup>](#external-referenc
 ## Another way to include pics
 ![Shooting Stars!](assests/shootingstars.png)
 
-## External References
+## Link to another file in your repo
+[ratchet and clank](secret-window/hidden-garden.md)
 
+
+## External References
 Links I used
 1. I used this for syntax [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 2. I used this for Ruby code [Ruby Example](https://www.rubyguides.com/2019/02/ruby-code-examples/)
